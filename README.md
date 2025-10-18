@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Akshita Aggarwal
 
-<!--
-**akshitaagg08/akshitaagg08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Electrical Engineering student passionate about coding and design.  
+💻 I love working with **C++ and AI/ML projects**.  
+🌱 Currently learning **coding**
+📫 Reach me at: (mailto:akshitaagg4125@gmail.com)
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+[Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitaagg08&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitaagg08&layout=compact&theme=radical)
+
+## 🌟 Let's Connect
+[![LinkedIn](https://www.linkedin.com/in/akshita-aggarwal-aa938a36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://www.instagram.com/_akshitaaggarwal?igsh=MWQ5MGU1eGVmd2piaQ==)](
